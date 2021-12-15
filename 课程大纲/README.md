@@ -38,4 +38,9 @@
 
 三、课程内容
 
+课程的第一阶段侧重于理论学习和课堂实验，培养学生建立相关知识体系，掌握关键技术的实现。
+
+
+<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/schdule.jpg" width="600" height="270"/></div>
+
 四、考核要求
