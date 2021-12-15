@@ -21,4 +21,4 @@
 
 团队合作，你不是一个人在战斗！
 
-<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/talk.jpg" width="600" height="1200"/></div>
+<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/talk.jpg" width="600" height="800"/></div>
