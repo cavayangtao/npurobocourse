@@ -40,6 +40,32 @@
 
 课程的第一阶段侧重于理论学习和课堂实验，培养学生建立相关知识体系，掌握关键技术的实现。
 
-<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/schedule.jpg" width="600" height="230"/></div>
+<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/schedule.jpg" width="600" height="220"/></div>
+
+智能无人系统概述（2课时）：
+
+典型传感器的功能和特点（2课时）：
+
+机器人操作系统（2课时）：
+
+图像处理和模式识别（2课时）：
+
+机器人操作系统实验（4课时）：
+
+无人机人脸追踪实验（4课时）：
+
+无人机二维码追踪实验（4课时）：
+
+智能自主理论基础与路径规划（4课时）：
+
+智能优化理论基础与任务分配（4课时）：
+
+无人车基础控制实验（4课时）：
+
+无人车建图导航实验（4课时）：
+
+综合实验（8课时）：
+
+专家报告：
 
 四、考核要求
