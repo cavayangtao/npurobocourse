@@ -15,4 +15,6 @@
 
 <div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/tt.jpg" width="600" height="340"/></div>
 
+理论实践结合，知其然还要能动手实现。
 
+<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/courses.jpg" width="600" height="340"/></div>
