@@ -17,7 +17,7 @@
 
 理论实践结合，知其然还要能动手实现。
 
-<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/courses.jpg" width="600" height="320"/></div>
+<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/courses.jpg" width="600" height="310"/></div>
 
 团队合作，你不是一个人在战斗！
 
