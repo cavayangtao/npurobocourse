@@ -5,3 +5,14 @@
 
 <div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/mars.png" width="600" height="200"/></div>
 
+为什么火星车能自主避障行驶？
+
+为什么无人机能协同提供支持？
+
+什么是快乐星球，现在就带你研究！
+
+任务牵引，让学习有的放矢。
+
+<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/tt.jpg" width="600" height="600"/></div>
+
+
