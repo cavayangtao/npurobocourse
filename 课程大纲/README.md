@@ -26,7 +26,7 @@
 
 “智能无人系统科学与技术”是在新形势下，紧密围绕无人系统信息化、体系化、智能化的发展趋势，基于我校航空航天航海特色，吸收信息、控制、材料等优势学科设立的新兴交叉学科。
 
-<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/background.jpg" width="600" height="300"/></div>
+<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/background.jpg" width="600" height="330"/></div>
 
 《智能无人系统综合设计》是基于“智能无人系统科学与技术”学科建设的综合性核心课程。课程旨在帮助学生理解并掌握智能无人系统综合设计的相关概念、典型流程、关键技术及其实现方法，为后续开展相关学科竞赛和科研工作奠定理论基础、提升动手能力。
 
