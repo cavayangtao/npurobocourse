@@ -21,4 +21,10 @@
 
 团队合作，你不是一个人在战斗！
 
-<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/talk.jpg" width="600" height="700"/></div>
+<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/courses.jpg" width="600" height="600"/></div>
+
+还有精彩的课程系列名家讲堂等着你。
+
+<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/talk.jpg" width="600" height="600"/></div>
+
+欢迎选报《智能无人系统综合设计I》，课程代码：U38L81001.01。
