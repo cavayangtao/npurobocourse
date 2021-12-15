@@ -13,6 +13,6 @@
 
 任务牵引，让学习有的放矢。
 
-<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/tt.jpg" width="600" height="400"/></div>
+<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/tt.jpg" width="600" height="300"/></div>
 
 
