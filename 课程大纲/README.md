@@ -30,9 +30,11 @@
 
 《智能无人系统综合设计》是基于“智能无人系统科学与技术”学科建设的综合性核心课程。课程旨在帮助学生理解并掌握智能无人系统综合设计的相关概念、典型流程、关键技术及其实现方法，为后续开展相关学科竞赛和科研工作奠定理论基础、提升动手能力。
 
+<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/overview.jpg" width="600" height="330"/></div>
+
 课程设置紧密围绕智能无人自主方向的人才培养需求，包括环境感知、自主决策、集群协同等几个关键技术的教学及实验内容，使学生能够在动手实践中掌握智能无人系统的设计方法和系统集成。
 
-
+<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/module.jpg" width="600" height="330"/></div>
 
 三、课程内容
 
