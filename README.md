@@ -42,4 +42,4 @@
 
 欢迎选报《智能无人系统综合设计II》，课程代码：U38L81002。
 
-<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/poster2.jpg" width="600" height="870"/></div>
+<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/2022spring/fig/poster2.jpg" width="600" height="870"/></div>
