@@ -48,4 +48,6 @@
 
 <div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/2022spring/fig/poster2.jpg" width="600" height="870"/></div>
 
-联系方式：杨韬 yangtao@nwpu.edu.cn
+本课程内容未经允许，禁止商用。
+
+联系方式：yangtao@nwpu.edu.cn
