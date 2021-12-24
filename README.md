@@ -34,3 +34,5 @@
 欢迎选报《智能无人系统综合设计I》，课程代码：U38L81001。
 
 <div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/poster1.jpg" width="600" height="870"/></div>
+
+联系方式：杨韬 yangtao@nwpu.edu.cn
