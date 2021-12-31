@@ -17,3 +17,6 @@ https://github.com/cavayangtao/teleop_twist_keyboard
 
 Robomaster TT 无人机闭源 ROS 驱动（基于官方 Robomaster SDK 3.0）：
 https://github.com/tianbot/rmtt_ros
+
+人脸跟踪及二维码跟踪代码示例：
+https://github.com/tianbot/rmtt_ros/tree/main/rmtt_tracker
