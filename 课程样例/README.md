@@ -14,7 +14,7 @@ https://github.com/cavayangtao/rmtt_ros
 人脸跟踪及二维码跟踪代码示例：
 https://github.com/cavayangtao/rmtt_ros
 
-课程资料：
+课件和实验手册：
 
 图像处理和模式识别
 
