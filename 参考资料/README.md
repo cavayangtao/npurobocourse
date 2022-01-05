@@ -15,8 +15,8 @@ https://github.com/cavayangtao/tello_driver
 遥控：
 https://github.com/cavayangtao/teleop_twist_keyboard
 
-Robomaster TT 无人机闭源 ROS 驱动（基于官方 Robomaster SDK 3.0，包含LED模块、编队等全功能）：
+Robomaster TT 无人机闭源 ROS 驱动（基于官方 Robomaster SDK 3.0，包含LED模块、下视视频流、编队等全功能）：
 https://github.com/cavayangtao/rmtt_ros
 
 人脸跟踪及二维码跟踪代码示例：
-https://github.com/cavayangtao/rmtt_ros
+https://github.com/cavayangtao/rmtt_ros/tree/main/rmtt_tracker
