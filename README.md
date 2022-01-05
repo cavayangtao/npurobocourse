@@ -35,6 +35,6 @@
 
 <div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/poster1.jpg" width="600" height="870"/></div>
 
-本课程资源将持续更新，课程内容未经允许禁止商用。
+本课程资源将持续更新，课程内容未经允许不得商用。
 
-联系方式：yangtao@nwpu.edu.cn
+欢迎交流，联系方式：yangtao@nwpu.edu.cn
