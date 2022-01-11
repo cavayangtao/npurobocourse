@@ -44,7 +44,7 @@
 | 第十一周   | 调试和比赛 | 
 | 第十二周   | 调试和比赛 | 
 
-欢迎选报《智能无人系统综合设计II》，课程代码：U38L81002。
+欢迎选报《智能无人系统综合设计 II》，课程代码：U38L81002。
 
 <div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/2022spring/fig/poster2.jpg" width="600" height="870"/></div>
 
