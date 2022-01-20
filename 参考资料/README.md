@@ -20,3 +20,5 @@ https://github.com/cavayangtao/rmtt_ros
 
 人脸跟踪及二维码跟踪代码示例：
 https://github.com/cavayangtao/rmtt_ros/tree/main/rmtt_tracker
+
+Tianbot Mini 小车驱动（含多机仿真）：https://github.com/tianbot/tianbot_mini
