@@ -22,3 +22,5 @@ https://github.com/cavayangtao/rmtt_ros
 https://github.com/cavayangtao/rmtt_ros/tree/main/rmtt_tracker
 
 Tianbot Mini 小车驱动（含多机仿真）：https://github.com/tianbot/tianbot_mini
+
+移动机器人导论课件：https://yzrobot.github.io/introduction_to_mobile_robotics
