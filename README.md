@@ -27,7 +27,7 @@
 
 二、课程安排
 
-比赛规则：https://github.com/cavayangtao/npurobocourse/tree/2022spring/%E6%AF%94%E8%B5%9B%E8%A7%84%E5%88%99
+比赛规则：(%E6%AF%94%E8%B5%9B%E8%A7%84%E5%88%99)
 
 | 周数（周六下午4课时）| 课程内容 | 
 | ---------- | :-----------:  |
