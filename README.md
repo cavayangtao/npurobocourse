@@ -19,7 +19,7 @@
 
 <div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/task.jpg" width="600" height="320"/></div>
 
-课程分为基础课（I）和进阶课（II）两个阶段，每阶段均包括理论课程、实验课程、综合实践三个环节。基础课（I）课程安排：[课程大纲](课程大纲)。进阶课（II）参见该仓库其他分支。
+课程分为基础课（I）和进阶课（II）两个阶段，每阶段均包括理论课程、实验课程、综合实践三个环节。基础课（I）课程安排：[课程大纲](课程大纲)。
 
 学习资料及代码示例：[参考资料](参考资料)。
 
