@@ -15,21 +15,17 @@
 
 什么是快乐星球，现在就带你研究！
 
-任务牵引，让学习有的放矢。
+《智能无人系统综合设计》以机器人操作系统（ROS）为软件平台，结合智能无人机、无人车等硬件设备，融合多学科知识内容，探索竞赛项目牵引、理论实践结合、重视团队合作的“人工智能+无人系统”教学模式。
 
-<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/tt.jpg" width="600" height="320"/></div>
+<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/task.jpg" width="600" height="320"/></div>
 
-理论实践结合，知其然还要能动手实现。
+课程分为基础课（I）和进阶课（II）两个阶段，每阶段均包括理论课程、实验课程、综合实践三个环节。基础课（I）课程安排：[课程大纲](课程大纲)。
 
-<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/courses.jpg" width="600" height="310"/></div>
+学习资料及代码：[参考资料](参考资料)。
 
-团队合作，你不是一个人在战斗！
+课件及实验手册：[课程样例](课程样例)。
 
-<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/students.jpg" width="600" height="600"/></div>
-
-还有精彩的课程系列名家讲堂等着你。
-
-<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/talk.jpg" width="600" height="600"/></div>
+感谢历届助教同学：[课程助教](课程助教)。
 
 欢迎选报《智能无人系统综合设计 I》，课程代码：U38L81001。
 
