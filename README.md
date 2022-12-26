@@ -1,3 +1,5 @@
+2022-12-26：课程[仿真环境](https://github.com/lbhwyy/nwpu_course)发布。
+
 # 智能无人系统综合设计 I (U38L81001)
 西北工业大学 无人系统技术研究院
 
@@ -31,6 +33,6 @@
 
 <div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/poster1.jpg" width="600" height="870"/></div>
 
-本课程资源将持续更新，课程内容未经允许不得商用。
+课程内容未经允许不得商用。
 
 欢迎交流，联系方式：yangtao@nwpu.edu.cn
