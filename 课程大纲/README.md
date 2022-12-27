@@ -8,7 +8,7 @@
 
 3．课程学时/学分：48/3
 
-4．先修课程：高等数学、线性代数、计算机基础
+4．先修课程：线性代数
 
 5．开课单位：无人系统技术研究院
 
@@ -24,21 +24,21 @@
 
 “智能无人系统科学与技术”是在新形势下，紧密围绕无人系统信息化、体系化、智能化的发展趋势，基于我校航空航天航海特色，吸收信息、控制、材料等优势学科设立的新兴交叉学科。
 
-<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/background.jpg" width="600" height="330"/></div>
+![background.jpg](../fig/background.jpg)
 
 《智能无人系统综合设计》是基于“智能无人系统科学与技术”学科建设的综合性核心课程。课程旨在帮助学生理解并掌握智能无人系统综合设计的相关概念、典型流程、关键技术及其实现方法，为后续开展相关学科竞赛和科研工作奠定理论基础、提升动手能力。
 
-<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/overview.jpg" width="600" height="320"/></div>
+![overview.jpg](../fig/overview.jpg)
 
 课程设置紧密围绕智能无人自主方向的人才培养需求，包括环境感知、自主决策、集群协同等几个关键技术的教学及实验内容，使学生能够在动手实践中掌握智能无人系统的设计方法和系统集成。
 
-<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/module.jpg" width="600" height="310"/></div>
+![module.jpg](../fig/module.jpg)
 
 三、课程内容
 
 课程的第一阶段侧重于理论学习和课堂实验，培养学生建立相关知识体系，掌握关键技术的实现。
 
-<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/schedule.jpg" width="600" height="220"/></div>
+![schedule.jpg](../fig/schedule.jpg)
 
 智能无人系统概述（2课时）：介绍要完成的课程任务，并从该任务中拆解出知识点，让学生在课程开始时对各环节有一个总体的把握，知道未来学习的每一部分知识的实际用途。介绍无人系统的内涵及特征、发展趋势、关键技术，以及智能无人系统科学与技术学科。
 
