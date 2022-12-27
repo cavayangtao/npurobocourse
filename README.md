@@ -19,7 +19,7 @@
 
 《智能无人系统综合设计》以机器人操作系统（ROS）为软件平台，结合智能无人机、无人车等硬件设备，融合多学科知识内容，探索竞赛项目牵引、理论实践结合、重视团队合作的“人工智能+无人系统”教学模式。
 
-<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/task.jpg" width="600" height="320"/></div>
+![task.jpg](fig/task.jpg)
 
 课程分为基础课（I）和进阶课（II）两个阶段，每阶段均包括理论课程、实验课程、综合实践三个环节。基础课（I）课程安排：[课程大纲](课程大纲)。进阶课（II）课程安排参见仓库其他分支。
 
@@ -31,7 +31,7 @@
 
 欢迎选报《智能无人系统综合设计 I》，课程代码：U38L81001。
 
-<div align=left><img src="https://github.com/cavayangtao/npurobocourse/blob/main/fig/poster1.jpg" width="600" height="870"/></div>
+![poster1.jpg](fig/poster1.jpg)
 
 课程内容未经允许不得商用。
 
