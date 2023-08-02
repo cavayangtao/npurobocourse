@@ -1,6 +1,6 @@
 2023-01-02：[课程样例](课程样例)更新。
 
-2022-12-26：课程[仿真环境](https://github.com/lbhwyy/nwpu_course)发布。
+2022-12-26：课程[仿真环境](https://github.com/npu-ius-lab/npurobocourse_sim)发布。
 ***
 # 智能无人系统综合设计 I (U38L81001)
 西北工业大学 无人系统技术研究院
