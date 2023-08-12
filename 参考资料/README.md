@@ -24,7 +24,7 @@ https://github.com/tianbot/tianbot_mini
 
 课程仿真环境：
 
-https://github.com/lbhwyy/nwpu_course
+https://github.com/npu-ius-lab/npurobocourse_sim
 
 # 课程延伸
 
