@@ -28,8 +28,8 @@ https://github.com/npu-ius-lab/npurobocourse_sim
 
 # 课程延伸
 
-单目旋翼无人机避障（大创）：
+单目旋翼无人机避障、跟踪（本科大创、毕设）：
 
-https://github.com/YongzhouPan/Mono-Navigation
+https://github.com/npu-ius-lab/MoNA-Bench
 
 
