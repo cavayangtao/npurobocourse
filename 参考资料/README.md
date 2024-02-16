@@ -8,9 +8,9 @@ http://wiki.ros.org/cn
 
 http://www.autolabor.com.cn/book/ROSTutorials/
 
-ROS U盘便携系统制作：
+U盘便携系统制作：
 
-[U盘便携系统](UROS.md)
+[ROS U盘便携系统](UROS.md)
 
 Python Numpy 教程：
 

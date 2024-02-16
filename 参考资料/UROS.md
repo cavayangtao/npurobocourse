@@ -12,15 +12,15 @@
 
 2. 右键便携系统U盘分区，点击“新建简单卷”，分出 30000MB 作为正常U盘使用：
 
-![fig2.png](fig/fig2.png)
+![fig2.jpg](fig/fig2.png)
 
 3. 默认值点击“下一页”：
 
-![fig3.png](fig/fig3.png)
+![fig3.jpg](fig/fig3.png)
 
 4. 文件系统可选 NTFS，点击“下一页”：
 
-![fig4.png](fig/fig4.png)
+![fig4.jpg](fig/fig4.png)
 
 5. 分区完成，剩余空间作为便携系统空间：
 
@@ -30,11 +30,11 @@
 
 选择要使用的U盘，选择下载好的系统镜像：
 
-![fig6.png](fig/fig6.png)
+![fig6.jpg](fig/fig6.png)
 
 7. 选择“以ISO镜像 模式写入”，后续都选“是”完成 Ubuntu 安装盘制作：
 
-![fig7.png](fig/fig7.png)
+![fig7.jpg](fig/fig7.png)
 
 8. 现在开始安装 Ubuntu 系统到便携系统U盘。
 
@@ -42,51 +42,51 @@
 
 插入便携系统U盘和Ubuntu 安装盘，开机选择“Install Ubuntu”：
 
-![fig10.png](fig/fig10.png)
+![fig10.jpg](fig/fig10.png)
 
 9. 选择英语布局键盘，除非用其他语言键盘：
 
-![fig11.png](fig/fig11.png)
+![fig11.jpg](fig/fig11.png)
 
 10. 选择不联网：
 
-![fig12.png](fig/fig12.png)
+![fig12.jpg](fig/fig12.png)
 
 11. 选择“Normal Installation”：
 
-![fig13.png](fig/fig13.png)
+![fig13.jpg](fig/fig13.png)
 
 12. 选择“Something else”：
 
-![fig14.png](fig/fig14.png)
+![fig14.jpg](fig/fig14.png)
 
 13. 找到留给便携系统U盘的空间，可以通过“Size”进行核对，点击“+”号：
 
-![fig15.png](fig/fig15.png)
+![fig15.jpg](fig/fig15.png)
 
 14. 分出 1000MB 给 “EFI System Partition”，选择“Logical”以及“Beginning of this space”：
 
-![fig16.png](fig/fig16.png)
+![fig16.jpg](fig/fig16.png)
 
 15. 选中剩余空间点“+”号，分给根目录“/”，选择“Primary”、“Beginning of this space”以及“Ext4 journaling file system”：
 
-![fig17.png](fig/fig17.png)
+![fig17.jpg](fig/fig17.png)
 
 16. “Device for boot loader installation”选择“efi”对应的“Device”：
 
-![fig18.png](fig/fig18.png)
+![fig18.jpg](fig/fig18.png)
 
 17. 点击“Install Now”：
 
-![fig19.png](fig/fig19.png)
+![fig19.jpg](fig/fig19.png)
 
 18. 时区点中国区域：
 
-![fig20.png](fig/fig20.png)
+![fig20.jpg](fig/fig20.png)
 
 19. 设置用户名和密码：
 
-![fig21.png](fig/fig21.png)
+![fig21.jpg](fig/fig21.png)
 
 20. 安装完成后 BIOS 中选择便携系统U盘（硬盘安装选择Ubuntu系统）为优先启动项即可进入系统。但无法识别原系统，修复启动项在新的 Terminal 中：
 
