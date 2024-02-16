@@ -4,6 +4,14 @@ ROS Wiki：
 
 http://wiki.ros.org/cn
 
+赵虚左 ROS 教程：
+
+http://www.autolabor.com.cn/book/ROSTutorials/
+
+ROS U盘便携系统制作：
+
+[U盘便携系统](UROS.md)
+
 Python Numpy 教程：
 
 https://zhuanlan.zhihu.com/p/20878530?refer=intelligentunit
