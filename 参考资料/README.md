@@ -26,6 +26,8 @@ Robomaster TT 无人机 ROS 驱动及课程代码：
 
 https://github.com/cavayangtao/rmtt_ros
 
+(new) https://github.com/npu-ius-lab/npurobocourse_sources
+
 Tianbot Mini 小车 ROS 驱动：
 
 https://github.com/tianbot/tianbot_mini
