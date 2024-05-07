@@ -4,10 +4,6 @@ ROS Wiki：
 
 http://wiki.ros.org/cn
 
-赵虚左 ROS 教程：
-
-http://www.autolabor.com.cn/book/ROSTutorials/
-
 U盘便携系统制作：
 
 [ROS U盘便携系统](UROS.md)
