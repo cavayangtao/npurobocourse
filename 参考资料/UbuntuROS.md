@@ -1,7 +1,7 @@
 # Ubuntu20.04/ROS 系统盘制作
 
 ## 1. 安装—傲梅轻松备份
-> 🎉下载页面：https://www.abackup.com/easy-backup-personal.html
+🎉下载页面：https://www.abackup.com/easy-backup-personal.html
 
 **安装完成后，打开界面如下：**
 
@@ -44,15 +44,15 @@ https://pan.baidu.com/s/1NG730Wo9OFFNIwm68pKtzg?pwd=nhtm 提取码: nhtm
 # Ubuntu系统镜像制作
 
 # 1. 选择备份（示例选择”分区备份“）
-![alt](fig/1.png)
+![alt](fig/img_1.png)
 **选择”分区备份“**
-![alt](fig/2.png)
+![alt](fig/img_2.png)
 
 # 2. 点击添加分区
-![alt](fig/3.png)
+![alt](fig/img_3.png)
 **单机”添加“**
-![alt](fig/4.png)
+![alt](fig/img_4.png)
 
 # 3.点击”开始备份“
 **等待备份完成**
-![alt](fig/5.png)
+![alt](fig/img_5.png)
