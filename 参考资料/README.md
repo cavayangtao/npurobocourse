@@ -12,6 +12,8 @@ U盘便携系统制作：
 
 [ROS U盘便携系统](UROS.md)
 
+(new) [ROS U盘便携系统](UbuntuROS.md)
+
 Python Numpy 教程：
 
 https://zhuanlan.zhihu.com/p/20878530?refer=intelligentunit
