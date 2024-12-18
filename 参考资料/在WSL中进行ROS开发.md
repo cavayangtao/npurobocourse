@@ -39,7 +39,7 @@
 
 ## 安装 ROS
 
-- 在终端输入以下命令，按提示安装 ROS Noetic：
+- 在 Ubuntu 终端输入以下命令，按提示安装 ROS Noetic：
   
   ```bash
   wget http://fishros.com/install -O fishros && . fishros
