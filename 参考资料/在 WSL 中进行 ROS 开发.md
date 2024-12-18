@@ -6,14 +6,14 @@
 
 - 在任务管理器中，选择**性能**，查看虚拟化是否已开启。
 
-  - ![](/image/图片1.png)
+  - ![](/image/pic1.png)
 
 **2. 开启 wsl 功能**
 
 - 打开“启动或关闭 Windows 功能”窗口，勾选以下选项：
   - 适用于 Linux 的 Windows 子系统
   - 虚拟机平台（非必须）
-- ![](/image/图片2.png)
+- ![](/image/pic2.png)
 
 **3. 重启电脑**
 
@@ -22,7 +22,7 @@
 **1. 打开 Microsoft Store**
 
 - 搜索 **Ubuntu**，下载并安装 **Ubuntu 20.04.6 LTS**。
-- ![](/image/图片3.png)
+- ![](/image/pic3.png)
 
 **2. 打开 Ubuntu 20.04**
 
