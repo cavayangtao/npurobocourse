@@ -4,7 +4,7 @@ ROS Wiki：
 
 http://wiki.ros.org/cn
 
-U盘便携系统制作：
+ROS开发环境配置：
 
 [ROS U盘便携系统](UROS.md)
 
