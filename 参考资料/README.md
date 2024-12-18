@@ -10,7 +10,7 @@ U盘便携系统制作：
 
 (new) [ROS U盘便携系统](UbuntuROS.md)
 
-(new) [在 WSL 中进行 ROS 开发](在 WSL 中进行 ROS 开发.md)
+[在WSL中进行ROS开发](在 WSL 中进行 ROS 开发.md)
 
 Python Numpy 教程：
 
