@@ -30,7 +30,7 @@
 
 **3. 初始化 Ubuntu**
 
-- 等待初始化完成（`Installing, this may take a few minutes…`），然后填写**用户名 (username)** 和 **密码 (password)**。
+- 等待初始化完成（`Installing, this may take a few minutes…`），然后设置**用户名 (username)** 和 **密码 (password)**。
 
 **4. 完成安装**
 
