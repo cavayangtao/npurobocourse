@@ -35,7 +35,7 @@
 **4. 完成安装**
 
 - 安装完成后，等待出现 **Welcome to Ubuntu 20.04.6 LTS** 字样，表示安装成功。
-- 此时打开 Windows 资源管理器，在左侧能看到 Ubuntu 图标（或在地址栏输入：\\wsl$），并查看 Ubuntu 文件。
+- 此时打开 Windows 资源管理器，在左侧能看到 Ubuntu 图标（或在地址栏输入：\\\wsl$），并查看 Ubuntu 文件。
 
 ## 安装 ROS
 
