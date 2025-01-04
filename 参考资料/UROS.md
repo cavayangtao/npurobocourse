@@ -40,7 +40,7 @@
 
 首先需要将电脑关机，将电脑硬盘物理断开连接，否则安装完毕后引导项有问题。
 
-9. 插入便携系统U盘和 Ubuntu 安装盘，开机选择“Install Ubuntu”：
+9. 插入便携系统U盘和 Ubuntu 安装盘，开机选择“Install Ubuntu”（若在本地硬盘安装双系统，需在BIOS设置从Ubuntu 安装盘启动）：
 
 ![fig10.jpg](fig/fig10.jpg)
 
