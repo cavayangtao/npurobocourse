@@ -6,9 +6,9 @@ http://wiki.ros.org/cn
 
 ROS开发环境配置：
 
-[ROS U盘便携系统](UROS.md)
+[双系统/U盘便携系统](UROS.md)
 
-(new) [ROS U盘便携系统](UbuntuROS.md)
+[U盘便携系统(傲梅备份)](UbuntuROS.md)
 
 [在WSL中进行ROS开发](在WSL中进行ROS开发.md)
 
