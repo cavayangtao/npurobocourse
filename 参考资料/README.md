@@ -8,7 +8,7 @@ ROS开发环境配置：
 
 [双系统/U盘便携系统](UROS.md)
 
-[U盘便携系统(傲梅备份)](UbuntuROS.md)
+[U盘便携系统 (傲梅备份)](UbuntuROS.md)
 
 [在WSL中进行ROS开发](在WSL中进行ROS开发.md)
 
@@ -26,11 +26,14 @@ Robomaster TT 无人机 ROS 驱动及课程代码：
 
 https://github.com/cavayangtao/rmtt_ros
 
-(new) https://github.com/npu-ius-lab/npurobocourse_sources
 
 Tianbot Mini 小车 ROS 驱动：
 
 https://github.com/tianbot/tianbot_mini
+
+《智能无人系统综合设计及实践》代码：
+
+https://github.com/npu-ius-lab/npurobocourse_sources
 
 课程仿真环境：
 
