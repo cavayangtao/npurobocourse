@@ -9,7 +9,7 @@
 
 ## 2. 下载系统镜像文件
 **镜像文件链接（Ubuntu 20.04 + ROS Noetic）：**
-https://pan.baidu.com/s/1NG730Wo9OFFNIwm68pKtzg?pwd=nhtm 提取码: nhtm 
+https://pan.baidu.com/s/12uIbyUh12-Q6ovV1j7W-9Q?pwd=rtyu 提取码: rtyu 
 
 ## 3. 选择”还原“,择下载的镜像文件
 ![alt](fig/2.png)
