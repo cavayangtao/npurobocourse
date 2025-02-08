@@ -4,7 +4,7 @@
 
 在 Windows 下准备两个U盘作为：便携系统U盘（USB 3.0及以上，空间128G及以上）和 Ubuntu 安装盘。
 
-注：如果安装系统在本地硬盘制作双系统，而非制作便携系统U盘，通过磁盘管理器分割出安装Ubuntu系统的空间（磁盘管理->从现有磁盘选择压缩卷分割空间->对分割出的磁盘空间选择删除卷），此后无需执行步骤1、2、3、4、5、8、15、17。
+注：如果安装系统在本地硬盘制作双系统，而非制作便携系统U盘，通过磁盘管理器分割出安装Ubuntu系统的空间（磁盘管理->从现有磁盘选择压缩卷分割空间->对分割出的磁盘空间选择删除卷），此后无需执行步骤1、2、3、4、5、8、15、17，仅需执行标*步骤。
 
 1. Win键 + X键，在弹出的菜单中选择“磁盘管理”打开磁盘管理器，右键便携系统U盘分区点击“删除卷”，会看到U盘分区变为黑色：
 
@@ -26,13 +26,13 @@
 
 ![fig5.png](fig/fig5.png)
 
-6. Ubuntu 官网下载 Ubuntu 20.04 系统 .iso 镜像，使用 Rufus 工具制作 Ubuntu 安装盘。
+*6. Ubuntu 官网下载 Ubuntu 20.04 系统 .iso 镜像，使用 Rufus 工具制作 Ubuntu 安装盘。
 
 选择要使用的U盘，选择下载好的系统镜像：
 
 ![fig6.jpg](fig/fig6.jpg)
 
-7. 选择“以ISO镜像 模式写入”，后续都选“是”完成 Ubuntu 安装盘制作：
+*7. 选择“以ISO镜像 模式写入”，后续都选“是”完成 Ubuntu 安装盘制作：
 
 ![fig7.jpg](fig/fig7.jpg)
 
@@ -40,29 +40,29 @@
 
 首先需要将电脑关机，将电脑硬盘物理断开连接，否则安装完毕后引导项有问题。
 
-9. 插入便携系统U盘和 Ubuntu 安装盘，开机选择“Install Ubuntu”。
+*9. 插入便携系统U盘和 Ubuntu 安装盘，开机选择“Install Ubuntu”。
 
 若在本地硬盘安装双系统，需在 BIOS 设置从 Ubuntu 安装盘启动。
 
 ![fig10.jpg](fig/fig10.jpg)
 
-10. 选择英语布局键盘，除非用其他语言键盘：
+*10. 选择英语布局键盘，除非用其他语言键盘：
 
 ![fig11.jpg](fig/fig11.jpg)
 
-11. 选择不联网：
+*11. 选择不联网：
 
 ![fig12.jpg](fig/fig12.jpg)
 
-12. 选择“Normal Installation”：
+*12. 选择“Normal Installation”：
 
 ![fig13.jpg](fig/fig13.jpg)
 
-13. 选择“Something else”：
+*13. 选择“Something else”：
 
 ![fig14.jpg](fig/fig14.jpg)
 
-14. 找到留给便携系统U盘的空间，可以通过“Size”进行核对，点击“+”号：
+*14. 找到留给便携系统U盘的空间，可以通过“Size”进行核对，点击“+”号：
 
 ![fig15.jpg](fig/fig15.jpg)
 
@@ -70,7 +70,7 @@
 
 ![fig16.jpg](fig/fig16.jpg)
 
-16. 选中剩余空间点“+”号，分给根目录“/”，选择“Primary”、“Beginning of this space”以及“Ext4 journaling file system”：
+*16. 选中剩余空间点“+”号，分给根目录“/”，选择“Primary”、“Beginning of this space”以及“Ext4 journaling file system”：
 
 ![fig17.jpg](fig/fig17.jpg)
 
@@ -78,19 +78,19 @@
 
 ![fig18.jpg](fig/fig18.jpg)
 
-18. 点击“Install Now”：
+*18. 点击“Install Now”：
 
 ![fig19.jpg](fig/fig19.jpg)
 
-19. 时区点中国区域：
+*19. 时区点中国区域：
 
 ![fig20.jpg](fig/fig20.jpg)
 
-20. 设置用户名和密码：
+*20. 设置用户名和密码：
 
 ![fig21.jpg](fig/fig21.jpg)
 
-20. 安装完成后 BIOS 中选择便携系统U盘（本地硬盘安装选择 Ubuntu 系统）为优先启动项即可进入系统。但开机引导项可能无法识别原系统，修复引导项项在新的 Terminal 中：
+*21. 安装完成后 BIOS 中选择便携系统U盘（本地硬盘安装选择 Ubuntu 系统）为优先启动项即可进入系统。但开机引导项可能无法识别原系统，修复引导项项在新的 Terminal 中：
 
 ```
 sudo update-grub
