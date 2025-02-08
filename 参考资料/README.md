@@ -6,7 +6,7 @@ http://wiki.ros.org/cn
 
 ROS开发环境配置：
 
-[双系统/U盘便携系统](UROS.md)
+[U盘便携系统/双系统](UROS.md)
 
 [U盘便携系统 (傲梅备份)](UbuntuROS.md)
 
