@@ -1,4 +1,4 @@
-# Ubuntu20.04/ROS 系统盘制作
+# Ubuntu 20.04/24.04 + ROS Noetic 系统盘制作
 
 ## 1. 安装—傲梅轻松备份
 🎉下载页面：https://www.abackup.com/easy-backup-personal.html
@@ -8,8 +8,14 @@
 ![alt](fig/1.png)
 
 ## 2. 下载系统镜像文件
-**镜像文件链接（Ubuntu 20.04 + ROS Noetic）：**
+
+Ubuntu 20.04 + ROS Noetic:
+
 https://pan.baidu.com/s/12uIbyUh12-Q6ovV1j7W-9Q?pwd=rtyu 提取码: rtyu 
+
+Ubuntu 24.04 + ROS Noetic:
+
+https://pan.baidu.com/s/1ziJ7t7chhhbigDQUkXSqeA?pwd=hhey 提取码: hhey 
 
 ## 3. 选择”还原“,择下载的镜像文件
 ![alt](fig/2.png)
@@ -56,3 +62,4 @@ https://pan.baidu.com/s/12uIbyUh12-Q6ovV1j7W-9Q?pwd=rtyu 提取码: rtyu
 # 3.点击”开始备份“
 **等待备份完成**
 ![alt](fig/img_5.png)
+
