@@ -2,7 +2,7 @@
 
 ## Install ROS Noetic
 
-Download [clean.sh](../clean.sh) and install.sh(../install.sh) and run:
+Download [clean.sh](./clean.sh) and [install.sh](./install.sh) and run:
 
 ```
 chmod +x clean.sh
