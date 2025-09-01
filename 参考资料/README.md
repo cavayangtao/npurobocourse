@@ -12,6 +12,8 @@ ROS开发环境配置：
 
 [在WSL中进行ROS开发](在WSL中进行ROS开发.md)
 
+[在Ubuntu24安装ROS1](ubuntu24noetic.md)
+
 Python Numpy 教程：
 
 https://zhuanlan.zhihu.com/p/20878530?refer=intelligentunit
