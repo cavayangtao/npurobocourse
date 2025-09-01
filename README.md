@@ -1,3 +1,5 @@
+2025-09-01：更新在Ubuntu24.04安装ROS1[教程](参考资料/ubuntu24noetic.md)。
+
 2025-06-05：仿真环境支持[虚实结合测试](https://github.com/npu-ius-lab/npurobocourse_sim)。
 
 2024-12-24：更新在WSL中进行ROS开发[配置教程](参考资料/%E5%9C%A8WSL%E4%B8%AD%E8%BF%9B%E8%A1%8CROS%E5%BC%80%E5%8F%91.md)。
